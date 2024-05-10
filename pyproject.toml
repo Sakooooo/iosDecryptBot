@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "iosdecryptbot"
+version = "0.0.1"
+description = "iOS app decryptor bot"
+authors = ["Sako <78461130+Sakooooo@users.noreply.github.com>"]
+license = "GPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
